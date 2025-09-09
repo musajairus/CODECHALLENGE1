@@ -56,5 +56,5 @@ function calculateNetSalary(basicSalary, benefits) {
 }
 
 // -------------------------------
-// Test: Basic Salary: 150,000, Benefits: 20,000
+// Example Test: Basic Salary: 150,000, Benefits: 20,000
 console.log(calculateNetSalary(150000, 20000)); //(Net Salary, Total Benefits)

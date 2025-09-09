@@ -17,5 +17,5 @@ function speedDetector(speed) {
   }
 }
 
-// Test
-console.log(speedDetector(80)); // Output: Points: 
+// Example Test: Speed = 80
+console.log(speedDetector(80)); // Output: Points: 2
