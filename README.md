@@ -35,15 +35,15 @@ Net Salary (final take-home pay)
 **This is the most comprehensive tool, simulating a real-world payroll system that employers use to process monthly salaries.**
 
 # Project Setup
-**Prerequisites**
+**Prerequisites:**
 Install Node.js on your computer.
 A text editor like VS Code is recommended.
-Steps
-**Clone this repository**
+**Steps**
+1) Clone this repository
 git clone <repo-link>
-**Navigate into the project folder**
+2) Navigate into the project folder
 cd <project-folder>
-Run each tool individually:
+3) Run each tool individually:
 a) Speed Detector
 Open speedDetector.js.
 Edit the file to enter a test speed value.
