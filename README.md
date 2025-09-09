@@ -39,22 +39,22 @@ Net Salary (final take-home pay)
 Install Node.js on your computer.
 A text editor like VS Code is recommended.
 **Steps**
-1) Clone this repository
-git clone <repo-link>
-2) Navigate into the project folder
-cd <project-folder>
-3) Run each tool individually:
-a) Speed Detector
+1) **Clone this repository**
+git clone < repo-link >
+2) **Navigate into the project folder**
+cd < project-folder >
+3) **Run each tool individually:**
+i) Speed Detector:
 Open speedDetector.js.
 Edit the file to enter a test speed value.
 Run it in the terminal:
 node speedDetector.js
-b) Student Grade Generator
+ii) Student Grade Generator:
 Open gradeGenerator.js.
 Enter a sample marks value inside the file.
 Run it in the terminal:
 node gradeGenerator.js
-c) Net Salary Calculator
+iii) Net Salary Calculator:
 Open netSalaryCalculator.js.
 Enter values for grossSalary and run it to see deductions (PAYE, NSSF, SHIF, Housing Levy) and net salary.
 Run it in the terminal:
