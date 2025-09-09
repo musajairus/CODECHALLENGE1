@@ -1,6 +1,6 @@
 # CODE CHALLENGE 1
 **Tools Overview**
-1. **Student Grade Generator :**
+**1. Student Grade Generator :**
  This tool allows a user to input student marks (between 0 and 100) and returns the corresponding grade based on the following grading system:
 A → greater than 79,
 B → between 60 and 79,
