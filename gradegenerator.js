@@ -17,5 +17,5 @@ function generateGrade(marks) {
   }
 }
 
-// Example test
-console.log(generateGrade(100)); // Output: Grade
+// Test
+console.log(generateGrade(20)); // Output: Grade
